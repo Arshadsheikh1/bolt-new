@@ -73,6 +73,8 @@ function Footer() {
                   raajarsh6@gmail.com
                 </a>
               </li>
+              <li><h1 style="color:#FF073A;"> Developed by <br>
+                                                               Er Arshad sheikh </h1></li>
             </ul>
           </div>
         </div>
